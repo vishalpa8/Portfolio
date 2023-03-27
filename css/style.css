@@ -292,10 +292,10 @@ span {
     transform: translateY(0);
 }
 
-.portfolio-container img {
+/* .portfolio-container img {
     width: 27vw;
     height: 41vh;
-}
+} */
 
 .portfolio-layer h4 {
     font-size: 3rem;
