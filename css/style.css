@@ -175,8 +175,9 @@ span {
 }
 
 .about-img img {
-    width: 35vw;
-    height: 75vh;
+    width: 28vw;
+    height: 60vh;
+    transition: .5s ease;
 }
 
 .heading {
