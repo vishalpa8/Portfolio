@@ -84,8 +84,8 @@ section {
 }
 
 .home-img img {
-    width: 35vw;
-    height: 75vh;
+    width: 38vw;
+    height: 73vh;
     animation: floatImage 4s ease-in-out infinite;
 }
 
@@ -176,7 +176,7 @@ span {
 
 .about-img img {
     width: 28vw;
-    height: 60vh;
+    height: 67vh;
     transition: .5s ease;
 }
 
